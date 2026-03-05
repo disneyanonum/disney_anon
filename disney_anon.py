@@ -13,7 +13,7 @@ from aiogram.filters import CommandStart
 
 import matplotlib.pyplot as plt
 
-TOKEN = os.getenv("TOKEN")
+TOKEN = "8639786947:AAGWLS6SIrBvhz7dAIHL64Y31XXyKyICz3c"
 
 logging.basicConfig(level=logging.INFO)
 
